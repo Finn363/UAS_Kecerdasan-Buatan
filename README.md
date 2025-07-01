@@ -1,5 +1,4 @@
-# Implementasi Seleksi Fitur Binary Particle Swarm Optimization 
-pada Algoritma K-NN untuk Klasifikasi Kanker Payudara 
+# Implementasi Seleksi Fitur Binary Particle Swarm Optimization pada Algoritma K-NN untuk Klasifikasi Kanker Payudara 
 
 ## Domain Proyek
 Kanker Payudara adalah jenis kanker paling umum yang sering menyerang kalangan wanita di seluruh dunia. 
